@@ -1,0 +1,33 @@
+{
+  "name": "Ojo Alafia",
+  "type": "personal",
+  "bio": "I am FullStack Web developer that mainly uses javascript and javscript frameworks. I am open source enthusiast. I am open to collaborate to projects and innovative/creative ideas.",
+  "avatar": "https://github.com/Alafia-Ojo.png",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/Alafia-Ojo",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/ojoalafiadavid",
+      "icon": "twitter"
+    },
+    {
+      "name": "Check out my LinkedIn profile",
+      "url": "https://www.linkedin.com/in/ojo-alafia",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Check out my website",
+      "url": "https://alafiaojo.netlify.app",
+      "icon": "globe"
+    },
+    {
+      "name": "Reach out to me via email",
+      "url": "mailto:ojoalafiadavid@gmail.com",
+      "icon": "envelope"
+    }
+  ]
+}
